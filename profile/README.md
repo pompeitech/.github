@@ -18,6 +18,11 @@ activities, with a particular focus on young people and our local community.
   [`@pompeitech/vesuvius-ui`](https://www.npmjs.com/package/@pompeitech/vesuvius-ui), shipped
   incrementally (atoms, then molecules, then organisms).
 
+
+- **[Ordo](https://github.com/pompeitech/ordo)** — an agent engineering harness for coordinating
+  AI-assisted development workflows., published on npm as
+  [`@pompeitech/ordo`](https://www.npmjs.com/package/@pompeitech/ordo).
+
 ## Tech we use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
